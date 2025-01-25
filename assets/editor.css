@@ -1,1 +1,6 @@
-
+/* Ejemplo mínimo de estilos para el editor */
+.bloque-imagen-flotante-editor {
+    border: 1px dashed #ccc;
+    padding: 1em;
+    position: relative;
+}
